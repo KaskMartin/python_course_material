@@ -54,7 +54,7 @@ f = None
 
 # In[ ]:
 
-c.real, c.bit_length()
+a.real, a.bit_length()
 
 
 # ## Some properties are hidden
@@ -72,3 +72,5 @@ f.__sizeof__()
 # This is done by giving them common properties so that the same Python code is able to process different types.
 # 
 # ## Exercise:  Find the common properties between the types listed above
+
+print ("Hello Universe!")
